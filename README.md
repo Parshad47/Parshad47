@@ -1,5 +1,5 @@
 # Parshad47
 git status
-git add README.md
-git commit -m "Changed the README"
+git add project.cpp
+git commit -m "Project 1 added"
 git push
